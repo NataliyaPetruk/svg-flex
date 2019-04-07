@@ -1,0 +1,42 @@
+.stats {
+  width: 1000px;
+  height: 1000px;
+  margin: 50px;
+}
+
+.grid {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.y-grid_width {
+  stroke-width: 0.5;
+  stroke: black;
+}
+
+.stats__circle {
+  fill: green;
+  stroke-width: 2.5;
+  position: fixed;
+  stroke: green;
+}
+
+.stats__font__data {
+  font-weight: 800;
+}
+
+.stats__font {
+  opacity: 1;
+}
+
+.labels {
+  font-size: 18px;
+}
+
+.y-labels {
+  text-anchor: middle;
+}
+
+.x-labels {
+  text-anchor: middle;
+}
